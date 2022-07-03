@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381340442"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\Lesya\Desktop\Business Calculator\lib\i386-win32&quot; -FuD:\Lazarus\lcl\units\i386-win32\win32 -FuD:\Lazarus\lcl\units\i386-win32 -FuD:\Lazarus\components\lazutils\lib\i386-win32 -FuD:\Lazarus\packager\units\i386-win32 &quot;-FuC:\Users\Lesya\Desktop\Business Calculator\&quot; &quot;-FUC:\Users\Lesya\Desktop\Business Calculator\lib\i386-win32\&quot; &quot;-FEC:\Users\Lesya\Desktop\Business Calculator\&quot; &quot;-oC:\Users\Lesya\Desktop\Business Calculator\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
